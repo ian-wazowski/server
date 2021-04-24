@@ -1,7 +1,7 @@
-# nautilus_server
-Nautilus_server is sophisticated and fail-safe trading system by adopting infrastrucuture design orginated from the world class HFT firm.
 
-Main purpose of nautilus_server is supporting [nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
+this is sophisticated and fail-safe trading system by adopting infrastrucuture design orginated from the world class HFT firm.
+
+Main purpose is supporting [nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
 
 # Features
 - Low latency data feeding via distributed servers.
